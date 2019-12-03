@@ -35,3 +35,4 @@ public class Vehiculo {
 }
 
 //Autor: Mario Muñoz Serrano.
+//Descripción: vehículo perteneciente a una flota de vehículos.
