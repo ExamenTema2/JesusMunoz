@@ -33,3 +33,5 @@ public class Vehiculo {
 		this.modelo = modelo;
 	}
 }
+
+//Autor: Mario Muñoz Serrano.
